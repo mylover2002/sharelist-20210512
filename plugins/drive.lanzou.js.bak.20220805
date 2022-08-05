@@ -3,7 +3,7 @@
  * lanzou:password@foldId / foldId
  */
 
-const host = 'https://www.lanzouw.com'
+const host = 'https://www.lanzous.com'
 
 /**
  * 从页面中获取 请求参数
